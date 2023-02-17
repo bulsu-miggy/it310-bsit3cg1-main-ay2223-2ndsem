@@ -1,0 +1,63 @@
+<?xmlversion ="1.0" encoding ="UTF=8"?>
+<rooms_category="featured">
+<room_id="1">
+<image> "room_1.jpg" </image>
+<price> 9,000,00 </price>
+<span> per day </span>
+<type> Deluxe Room </type>
+</room>
+<room_id="2">
+<image> "room_2.jpg" </image>
+<price> 4,000,00 </price>
+<span> per day </span>
+<type> Family Room </type>
+</room>
+<room_id="3">
+<image> "room_3.jpg" </image>
+<price> 7,000,00 </price>
+<span> per day </span>
+<type> Superior Room </type>
+</room>
+<room_id="4">
+<image> "room_4.jpg" </image>
+<price> 8,000,00 </price>
+<span> per day </span>
+<type> Signature Room </type>
+</room>
+<room_id="5">
+<image> "room_5.jpg" </image>
+<price> 3,500,00 </price>
+<span> per day </span>
+<type> Twin Bed Room </type>
+</room>
+<room_id="6">
+<image> "room_6.jpg" </image>
+<price> 2,500,00 </price>
+<span> per day </span>
+<type> Single Room </type>
+</room>
+<room_id="7">
+<image> "room_7.jpg" </image>
+<price> 5,500,00 </price>
+<span> per day </span>
+<type> Studio Type Room </type>
+</room>
+<room_id="8">
+<image> "room_8.jpg" </image>
+<price> 9,199,00 </price>
+<span> per day </span>
+<type> Executive Suite Room </type>
+</room>
+<room_id="9">
+<image> "room_9.jpg" </image>
+<price> 10,000,00 </price>
+<span> per day </span>
+<type>  Mini Suite Room </type>
+</room>
+<room_id="10">
+<image> "room_10.jpg" </image>
+<price> 20,000,00 </price>
+<span> per day </span>
+<type> Presidential Suite Room </type>
+</room>
+</rooms>
